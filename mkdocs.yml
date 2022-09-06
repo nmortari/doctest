@@ -4,5 +4,5 @@ theme:
     text: Roboto
     code: Roboto Mono
   palette:
-    scheme: slate
+    scheme: default
 site_name: Nick's Testing For MkDocs
