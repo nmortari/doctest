@@ -1,4 +1,4 @@
 site_name: Nick's Testing For MkDocs
 theme:
   font:
-    code: Roboto Mono
+    text: Roboto Mono
