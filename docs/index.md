@@ -4,7 +4,7 @@ For full documentation visit [Nick's Site Test](https://www.mkdocs.org).
 
 ## Commands
 
-* `mkdocs new [dir-name]` - Create a new project. Testing this line.
+* `mkdocs new [dir-name]` - Create a new project. Testing new workflow file.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
