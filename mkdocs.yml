@@ -19,7 +19,13 @@ theme:
         toggle:
           icon: material/brightness-3
           name: Dark mode
-    #scheme: default
-    #primary: light blue
-    #accent: blue
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - toc.follow
+
 site_name: Nick's Testing For MkDocs
