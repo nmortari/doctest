@@ -4,5 +4,22 @@ theme:
     text: Roboto
     code: Roboto Mono
   palette:
-    scheme: default
+      #Light Mode
+      - scheme: default
+        primary: light blue
+        accent: blue
+        toggle:
+          icon: material/brightness-7
+          name: Light mode
+    
+      #Dark mode
+      - scheme: slate
+        primary: light blue
+        accent: yellow
+        toggle:
+          icon: material/brightness-3
+          name: Dark mode
+    #scheme: default
+    #primary: light blue
+    #accent: blue
 site_name: Nick's Testing For MkDocs
