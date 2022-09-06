@@ -1,5 +1,5 @@
 theme:
-  name:
+  name: material
   font:
     text: Roboto
     code: Roboto Mono
