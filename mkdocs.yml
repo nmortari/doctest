@@ -3,4 +3,6 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+  palette:
+    scheme: slate
 site_name: Nick's Testing For MkDocs
