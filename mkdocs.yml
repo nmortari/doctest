@@ -23,7 +23,6 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.indexes
     - toc.follow
 
 site_name: Nick's Testing For MkDocs
