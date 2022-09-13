@@ -27,3 +27,6 @@ theme:
     - toc.follow
 
 site_name: Nick's Testing For MkDocs
+nav:
+  - Home: index.md
+  - Test 1: test.md
